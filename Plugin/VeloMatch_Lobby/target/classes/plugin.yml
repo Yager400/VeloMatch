@@ -1,0 +1,8 @@
+name: VeloMatch_Lobby
+version: '1.0'
+main: org.veloMatch_Bukkit.VeloMatch_Bukkit
+api-version: '1.21'
+authors: [ Yager400 ]
+commands:
+  matchmaking:
+    description: "This command send a request to the proxy, please use this only for testing"

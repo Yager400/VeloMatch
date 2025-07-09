@@ -1,0 +1,5 @@
+name: VeloMatch_Game
+version: '1.0'
+main: org.VeloMatch_Game.VeloMatch_Game
+api-version: '1.21'
+authors: [ Yager400 ]
