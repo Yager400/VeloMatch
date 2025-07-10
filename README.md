@@ -1,5 +1,11 @@
 # VeloMatch
 
+<div align="center">
+
+![VeloMatch full logo](https://cdn.modrinth.com/data/cached_images/b10a78530f049e4a6ae68b605acf734ab2c94e82.png)
+
+</div>
+
 Hi, thank you for downloading the VeloMatch plugin, in these files (INSTALL.md and README.md) you will see how to configure this plugin and what to consider<br><br>
 Let's start with the first thing, ***what is VeloMatch***: <br>
  - VeloMatch is a free and open-source plugin for small/medium servers that want to make a difference, how? By creating gamemodes that don't have the maximum player cap of every server software (for Paper it is around 150/200) and using multiple servers
