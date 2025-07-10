@@ -98,7 +98,7 @@ public class MiniumServerChecker {
                     } else {
                         String nextGameName = YamlRead("prefix") + FindNextServerSlot(PLFolder);
 
-                        System.out.println("Next game from " + ServerToCreate + "is " + nextGameName);
+                        //System.out.println("Next game from " + ServerToCreate + "is " + nextGameName);
 
                         if (GameInfo.getBoolean(nextGameName + ".waiting")) {
                             GameInfo.set(nextGameName + ".waiting", false);
