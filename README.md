@@ -6,7 +6,7 @@
 
 </div>
 
-Hi, this is VeloMatch, a matchmaking system plugin for proxys and servers, made for small/medium server that want to make a difference by creating their own gamemode with a matchmaking that can handle a LOT of player, not just 150 by making everithing in one server<br><br>
+Hi, this is VeloMatch, a matchmaking system plugin for proxys and servers, make sure to read all of this file and the INSTALL.md for setting up this plugin, now the presentation<br><br>
 Let's start with the first thing, ***what is VeloMatch***: <br>
  - VeloMatch is a free and open-source plugin for small/medium servers that want to make a difference, how? By creating gamemodes that don't have the maximum player cap of every server software (for Paper it is around 150/200) and using multiple servers
 
