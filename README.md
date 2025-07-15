@@ -27,3 +27,7 @@ Where can VeloMatch run?
 
 Problems?
 — Unfortunately, yes. Probably due to bad coding in that part, on the last 2 servers the plugin will wait around 3–4 seconds before letting a player join. Why? Because when VeloMatch needs to reset the games, it starts recreating games from the first port. Because of this, on the last game it will take about 3–4 seconds to let players join. However, if you use around 400 ports, this won’t be a noticeable problem.
+
+Links
+- Modrinth: https://modrinth.com/plugin/velomatch
+- Discord: https://discord.gg/VvAYbrdSqG
