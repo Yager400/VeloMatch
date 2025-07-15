@@ -19,5 +19,5 @@ If you are testing, debug mode can give you useful info, like whether requests r
 Please **do NOT touch the GameInfo.json or the active_Games folder** — these are critical files used by the proxy and the game to communicate and verify things. If you accidentally change something here, delete the file or folder and restart your proxy.
 
 ### Tutorial and support  
-For support, you can go to [github](https://github.com/Yager400/VeloMatch/issues) and post your problem to get help. Or, if you don’t want to open an issue on GitHub, you can go here on [discord](https://discord.gg/VvAYbrdSqG) to get help from staffer or open a discussion
+For support, you can go to [github](https://github.com/Yager400/VeloMatch/issues) and post your problem to get help. Or, if you don’t want to open an issue on GitHub, you can go here on [discord](https://discord.gg/nsSuW87aMx) to get help from staffer or open a discussion
 
