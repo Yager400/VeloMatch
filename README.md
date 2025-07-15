@@ -30,4 +30,4 @@ Problems?
 
 Links
 - Modrinth: https://modrinth.com/plugin/velomatch
-- Discord: https://discord.gg/VvAYbrdSqG
+- Discord: https://discord.gg/nsSuW87aMx
