@@ -68,7 +68,7 @@ public class VeloMatch_Velocity {
         System.out.println("Velomatch listening on channel -> " + channel);
 
 
-        logger.warn("Hi, if this is your fist time running velomatch and you don't know how to install it, go here 'https://modrinth.com/project/velomatch' and read the installation guide, for anything else related by velomatch you can go here 'https://github.com/Yager400/VeloMatch' to get help or here 'https://yager400.github.io/velomatch-ds/'\nAlso for server template please read the guide if you don't know, or you can go in my channel where i will make a video on how to setup this plugin 'https://www.youtube.com/@yager400'");
+        logger.warn("Hi, if this is your fist time running velomatch and you don't know how to install it, go here 'https://modrinth.com/project/velomatch' and read the installation guide, for anything else related by velomatch you can go here 'https://github.com/Yager400/VeloMatch' to get help or here 'https://yager400.github.io/velomatch-ds/'\nAlso for server template please read the guide if you don't know how to make it");
 
         Match = new MatchRequest();
         ClearAll(PLFolder);
