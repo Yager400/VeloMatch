@@ -35,7 +35,7 @@ public class GameListMenager {
                 "nogui"
         );
 
-        // Esempio di cartella server dedicata
+        
         builder.directory(new File(PLFolder + "active_Games/" + GameName));
 
         Process process = builder.start();
