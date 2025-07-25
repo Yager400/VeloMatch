@@ -81,6 +81,12 @@ public class SearchOpenServerSlot {
             }
         }
 
+        // Tips so i don't forget this and you (devs) can actually use this part of the code
+        // This is another for that redo the same thing as the one on top, but instead of
+         // returning GameCount + 1 it will return just GameCount, so the program will be forced
+         // to change even the first game and not skipping that, but realistically, this part is not good and
+         // i hope that someone interested in this project will change this :)
+
         for (int GameCount = 0; GameCount <= TotalGameToCheck; GameCount++) {
 
             String GameNameNOW = YamlRead("prefix") + (GameCount + 1);
